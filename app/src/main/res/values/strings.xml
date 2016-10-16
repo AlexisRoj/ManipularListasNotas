@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notas</string>
+    <string name="agregar_nota">Agregar Nota</string>
+    <string name="identificacion">Esta nota es nueva, no se ha generado un identificador.</string>
+    <string name="titulo">Título</string>
+    <string name="descripcion">Descripción de la nota</string>
+    <string name="guardar">Guardar</string>
+    <string name="ultima_modificacion">Última modificación:</string>
+</resources>
